@@ -1,0 +1,10 @@
+{
+  "name": "com.yourname.myunitytools",
+  "displayName": "My Unity Tools",
+  "version": "1.0.0",
+  "description": "便利な自作ツール詰め合わせ",
+  "unity": "2022.3",
+  "author": {
+    "name": "doyakyon"
+  }
+}
