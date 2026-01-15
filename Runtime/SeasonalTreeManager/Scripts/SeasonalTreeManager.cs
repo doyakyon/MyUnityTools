@@ -66,7 +66,6 @@ public class SeasonalTreeManager : UdonSharpBehaviour
         else prefabToSpawn = GetRandom(winterPrefabs);
     }
 
-    // ★ここが重要：少しずつ生成するループ処理
     public void SpawnBatch()
     {
         if (prefabToSpawn == null) return;
