@@ -2,3 +2,4 @@
 現在、以下の機能をもつスクリプトがあります。
 
 SeasonalTreeManager:四季によって表示するオブジェクトをシーンロード時に更新する
+SeasonalMaterialSwitcher:式によってオブジェクトをマテリアルをシーンロード時に更新する
