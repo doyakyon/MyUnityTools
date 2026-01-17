@@ -3,7 +3,6 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 using System;
-using UnityEditor.Callbacks;
 
 public class SeasonalMaterialSwitcher : UdonSharpBehaviour
 {
